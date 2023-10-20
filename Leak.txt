@@ -591,7 +591,7 @@ identify any business enterprise satisfying the standard of reasonable grounds
 to believe involvement consistent with the definitional approach set out above.
 
 
-telegram channel : t.me/HackTivi3T
+
        A/Organization 
 
 10680,0,0,<blank>,<blank>,2013-11-09,<blank>,0508657565,eliko45@gmail.com,"I'm a mechanical eng. and also p.e at Instrumentation and Control, and today i'm a project manager at IDF and also i'm charged for all the fire equipment in the army ",<blank>,Israel,IDF,<blank>,CV Request from website, Safety & fire detection,eli hanna,<blank>,0
@@ -2087,5 +2087,3 @@ telegram channel : t.me/HackTivi3T
 6825,0,0,<blank>,<blank>,2011-04-06,<blank>,0547668039,arielgadayev@gmail.com,סטודנט שנה ג'\r\nלהנדסת אלקטרוניקה,<blank>,Israel,<blank>,<blank>,CV Request from website,Electrical Engineering,אריאל גדייב,<blank>,0
 6826,0,0,<blank>,<blank>,2011-04-07,<blank>,0547683039,olehov@gmail.com,<blank>,<blank>,Israel,<blank>,<blank>,CV Request from website,<blank>,אולג חוברס,<blank>,0
 
-telegram channel : t.me/HackTivi3T
-       A/Organization 
